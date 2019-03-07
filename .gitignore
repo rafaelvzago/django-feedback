@@ -7,3 +7,4 @@ lib
 *.sqllite3
 *.db
 *.env
+*.vscode
