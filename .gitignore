@@ -1,0 +1,9 @@
+*.pyc
+*.pyo
+__pycache__
+bin
+include
+lib
+*.sqllite3
+*.db
+*.env
